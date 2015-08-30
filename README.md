@@ -88,56 +88,9 @@
 </p>
 <hr/>
 
-<p>
-    <strong>项目日志</strong>
-    <ol>
-        <li>
-            <p>2015-03-17    项目创建. </p>
-        </li>
-        <li>
-            <p>2015-06-02    V-0.1版本发布. </p>
-        </li>
-    </ol>
-</p>
 
 <hr/>
-<p>
-    <strong>参考资源</strong>
-    <br/>
-    以下是在开发与学习过程中参考的Oauth资源,总结下来方便学习回顾.
-    <ul>
-        <li><p>
-            <a href="http://www.dannysite.com/blog/176/">OAuth2：Authorization Flows</a>
-        </p></li>
-        <li><p>
-            <a href="http://www.dannysite.com/blog/178/">OAuth2：隐式授权（Implicit Grant）类型的开放授权</a>
-        </p></li>
-        <li><p>
-            <a href="http://www.tuicool.com/articles/QrUVvuf">oauth2.0协议之Implicit grant模式解析</a>
-        </p></li>
-    </ul>
-</p>
+
 
 <hr/>
-<h4>
-    与项目相关的技术文章请访问 <a href="http://andaily.com/blog/?cat=19">http://andaily.com/blog/?cat=19</a> (不断更新与Oauth相关的文章)
-</h4>
-<p>
-    <strong>问答与讨论</strong>
-    <br/>
-    与项目相关的，与Oauth相关的问题与回答，以及各类讨论请访问<br/>
-    <a href="http://andaily.com/blog/?dwqa-question_category=oauth">http://andaily.com/blog/?dwqa-question_category=oauth</a>
-</p>
-
 <br/>
-<p>
- 关注更多我的开源项目请访问 <a href="http://andaily.com/my_projects.html">http://andaily.com/my_projects.html</a>
-</p>
-<p>
- 若需更多的技术支持请联系 <a href="mailto:monkeyk@shengzhaoli.com">monkeyk@shengzhaoli.com</a>
-</p>
-
-<hr/>
-<div>
-  Expect your joining...
-</div>
